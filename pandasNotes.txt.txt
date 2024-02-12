@@ -1,0 +1,55 @@
+----------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
+         1         2         3         4         5         6         7         8
+----------------------------------------
+------------------
+123456789012345678
+------------------
+#-----------------
+----------------------------------------
+#---------------------------------------
+----------------------------------------------------------------------------------------
+Setup
+----------------------------------------------------------------------------------------
+
+------------------
+to install Pandas in VSCode
+type:
+$ py -m pip install pandas
+
+
+------------------
+useful VSC extension:
+
+* Python Extension Pack by Don Jayamanne
+* Pylance by Microsoft
+* Excel Viewer by GrapeCity
+
+* Jupyter by Microsoft
+  in VSC settings, search:
+  Jupyter › Interactive Window › Text Editor: Execute Selection
+    When pressing [shift + enter], send selected code in a Python file to the Jupyter interactive window as opposed to the Python terminal
+  check this box
+  .
+  [shift + enter] is what will be used throughout this tutorial; the output look much nicer vs terminal window; also the content of the variable can easily be display by type out its name instead of normally having to embedded inside print()
+
+
+------------------
+tutorial followed:
+https://www.youtube.com/watch?v=dUpyC40cF6Q&list=PLUaB-1hjhk8GZOuylZqLz-Qt9RIdZZMBE
+
+
+----------------------------------------------------------------------------------------
+asdf
+----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
