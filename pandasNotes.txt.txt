@@ -36,6 +36,16 @@ useful VSC extension:
 
 
 ------------------
+exporting Jupyter Interactive as pdf
+.
+required MiKTeX, go here to download:
+https://miktex.org/download
+.
+installed MiKTeX, still unable to export as pdf;
+
+
+
+------------------
 tutorial followed:
 https://www.youtube.com/watch?v=dUpyC40cF6Q&list=PLUaB-1hjhk8GZOuylZqLz-Qt9RIdZZMBE
 
