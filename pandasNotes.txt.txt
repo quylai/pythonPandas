@@ -37,12 +37,23 @@ useful VSC extension:
 
 ------------------
 exporting Jupyter Interactive as pdf
-.
+
 required MiKTeX, go here to download:
 https://miktex.org/download
 .
-installed MiKTeX, still unable to export as pdf;
-
+need to have nbconvert, do
+$ py -m pip install nbconvert -U
+.
+need to have pandoc too when codes involved:
+import matplotlib.pyplot as plt
+do,
+$ py -m pip install nbconvert -U
+also after installation of pandoc, VSC may need to reopen in order
+for it to take effects
+.
+this pdf-conversion is wonky, last week it worked, now no  -,-''
+now in order to get pdf file, you need to convert as html,
+then use browser to convert into pdf
 
 
 ------------------
